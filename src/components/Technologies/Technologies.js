@@ -6,9 +6,9 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider divider />
-    <SectionTitle>Technologies</SectionTitle>
+    <SectionTitle>Technical Skills</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies used in mechanical, electrical, and software design.
+      I've acquired a range of skills used in mechanical, electrical, and software design.
     </SectionText>
     <List>
       <ListItem>
@@ -16,7 +16,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Software</ListTitle>
           <ListParagraph>
-            Matlab, React.js, MySQL, Linux, and Firebase 
+            Python, C, Matlab, ARM Assembly, Java, React.js, MySQL, Linux, and Firebase 
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -25,7 +25,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Mechanical</ListTitle>
           <ListParagraph>
-            Autodesk Inventor, 3D printing, and Lean Six Sigma 
+            Autodesk Inventor, 3D printing, and Lean Six Sigma Fundamentals 
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -34,7 +34,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Electrical</ListTitle>
           <ListParagraph>
-            Digital and analog circuits to create various filters and implement sequential logic 
+            Experience with digital and analog circuits to create various filters and implement sequential logic along with industry grade softwares like MultiSim 
           </ListParagraph>
         </ListContainer>
       </ListItem>
